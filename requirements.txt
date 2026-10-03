@@ -1,0 +1,9 @@
+tensorflow==2.15.0
+numpy<2
+pillow
+streamlit
+matplotlib
+scikit-learn
+icrawler
+notebook
+ipykernel
